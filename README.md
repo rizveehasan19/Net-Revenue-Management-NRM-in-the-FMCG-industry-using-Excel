@@ -1,4 +1,4 @@
-Net revenue management (NRM) is a strategic approach designed to maximize a brand's profitability. There are 5 pillars or initiatives have been collectively driving businesses to an estimated extent of 66% across industries. 
+Net Revenue Management (NRM) is a strategic approach designed to maximize a brand's profitability. There are 5 pillars or initiatives have been collectively driving businesses to an estimated extent of 66% across industries. 
 I have implemented this in this case study in the FMCG domain. Let's dive into these initiatives one by one to understand the process:
 
 🚀# Brand Portfolio Pricing:
