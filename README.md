@@ -1,4 +1,4 @@
-# Net Revenue Management (NRM) in the FMCG industry using excel
+# Net Revenue Management (NRM) in the FMCG industry using Microsoft Excel
 
 Net Revenue Management (NRM) is a strategic approach designed to maximize a brand's profitability. There are 5 pillars or initiatives have been collectively driving businesses to an estimated extent of 66% across industries. 
 I have implemented this in this case study in the FMCG domain. Let's dive into these initiatives one by one to understand the process:
@@ -24,6 +24,6 @@ In this project, I have calculated the ROI of 3 promotions to understand which o
 🚀Trade Terms Management:
 Depending on the sales potential, some incentives & discounts also drive the net sales & profits. For example, incentivizing the customer with the higher potential drives the overall business. This is also a part of the NRM strategy.
 
-Finally, I have wrapped up the project with a projection of how the NRM strategy contributed to the net sales with forecasting. This visual demonstrated what would be the organic net sales in the next year & to what extent NMR drives it.
+Finally, I have wrapped up the project with a projection of how the NRM strategy contributed to the net sales with forecasting. This visual demonstrated what would be the organic net sales in the next year & to what extent NRM drives it.
 
 ![image](https://github.com/user-attachments/assets/072500d1-d742-4479-8fb3-534c2215357c)
